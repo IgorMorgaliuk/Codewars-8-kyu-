@@ -1,1 +1,0 @@
-# Codewars-8-kyu-
